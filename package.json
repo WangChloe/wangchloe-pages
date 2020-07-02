@@ -1,0 +1,8 @@
+{
+  "name": "wangchloe-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WangChloe/wangchloe-pages.git",
+  "author": "j.wangk <j.wangk@trip.com>",
+  "license": "MIT"
+}
